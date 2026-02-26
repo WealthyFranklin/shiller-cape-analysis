@@ -35,7 +35,7 @@ You'll need the following libraries installed:
 pip install pandas matplotlib seaborn scipy yfinance openpyxl xlrd
 ```
 
-Download `ie_data.xls` from [Shiller's website](http://www.econ.yale.edu/~shiller/data.htm) and place it in the same folder as the notebook. Then open `cape_analysis.ipynb` and run the cells in order.
+Download `ie_data.xls` from [Shiller's website](http://www.econ.yale.edu/~shiller/data.htm) and place it in the same folder as the notebook. Then open `shillers_PE.ipynb` and run the cells in order.
 
 ---
 
