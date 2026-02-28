@@ -41,9 +41,11 @@ Download `ie_data.xls` from [Shiller's website](http://www.econ.yale.edu/~shille
 
 ## A few honest caveats
 
-CAPE is not a crystal ball. It explains 12% of future returns, which means 88% comes from other things. The relationship has also not been perfectly stable — during the dot-com bubble in the late 1990s, high CAPE values persisted for years while returns kept climbing, temporarily breaking the pattern.
+CAPE is not a crystal ball. It explains 12% of future returns, which means 88% comes from other things. The relationship has also not been perfectly stable, during the dot-com bubble in the late 1990s, high CAPE values persisted for years while returns kept climbing, temporarily breaking the pattern.
 
-The analysis also uses price returns only, not total returns including dividends. And we can't yet evaluate whether CAPE's current warning is correct — the 10-year verdict on today's valuations won't arrive until 2033 or 2034.
+The analysis also uses price returns only, not total returns including dividends. And we can't yet evaluate whether CAPE's current warning is correct, the 10-year verdict on today's valuations won't arrive until 2033 or 2034.
+
+A common criticism of CAPE today is that the index is dominated by a handful of mega-cap tech companies trading at historically elevated valuations. The Magnificent 7 Apple, Microsoft, Nvidia, Amazon, Alphabet, Meta and Tesla make up roughly 40% of the S&P 500. Most of them trade at P/E multiples above the index average, with Nvidia at 36x and Apple at 33x leading the way. This concentration is historically unusual and could mean that CAPE is partly reflecting the premium placed on a small group of exceptional businesses rather than broad market overvaluation. That said, even stripping out the narrative around Big Tech, the market as a whole remains expensive by most historical measures.
 
 ---
 
